@@ -79,7 +79,7 @@ public class ImageCrawler extends WebCrawler {
         return true;
       }
     }
-    return false;
+    return true;
   }
 
   @Override
